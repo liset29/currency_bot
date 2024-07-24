@@ -1,8 +1,5 @@
 import asyncio
-
-import aiocron
 import schedule
-
 import config as con
 from aiogram.client.default import DefaultBotProperties
 from app.comands import set_commands
